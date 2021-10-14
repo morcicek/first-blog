@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Audiowide";
+}
+
+#header {
+  background-color: black;
+  color: antiquewhite;
+  border-bottom: 5px solid red;
+}
+
+#header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+#branding {
+  /*font-family: "Audiowide";*/
+}
+
+span {
+  color: red;
+}
+
+#navigation ul {
+  display: flex;
+}
+
+#navigation li {
+  padding: 0 20px;
+  list-style: none;
+  font-family: "Audiowide";
+}
+
+#main {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)),
+    url("img/programming\ evolution.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+#main .container {
+  color: antiquewhite;
+  padding: 20% 10px;
+  text-align: center;
+  font-size: x-large;
+}
+
+#main .container p {
+  text-shadow: 2px 2px #ff0000;
+}
+#header a {
+  color: antiquewhite;
+  text-decoration: none;
+}
+
+#personal,
+#contact {
+  background-color: black;
+  padding: 10px;
+}
+
+#personal h1,
+#contact h1 {
+  color: red;
+  text-align: center;
+}
+
+#personal p,
+#contact p {
+  color: antiquewhite;
+}
+
+#footer {
+  display: flex;
+  padding-right: 10%;
+  align-items: center;
+}
+
+#linkedin {
+  width: 45px;
+  justify-content: center;
+}
