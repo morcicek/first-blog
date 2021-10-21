@@ -1,5 +1,4 @@
 # first-blog
-This blog-attempt contains some examples about HTML5 and CSS3...
 [First-Blog](https://morcicek.github.io/first-blog/)
 ##Overview
 ---
