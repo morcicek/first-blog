@@ -9,4 +9,4 @@ This page is about a classic blog-page.It is created with;
 ### Output of page
 ---
 
-(Image.png)
+(Image)
