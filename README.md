@@ -4,5 +4,5 @@
 ##Overview
 ---
 This page is about a classic blog-page.It is created with;
-*HTML5
-*CSS3
+* HTML5
+* CSS3
