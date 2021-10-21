@@ -1,7 +1,7 @@
 # first-blog
 [First-Blog](https://morcicek.github.io/first-blog/)
 
-##Overview
+## Overview
 ---
 This page is about a classic blog-page.It is created with;
 * HTML5
@@ -9,4 +9,4 @@ This page is about a classic blog-page.It is created with;
 ### Output of page
 ---
 
-!(image.png)
+(Image.png)
